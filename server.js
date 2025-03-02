@@ -13,6 +13,9 @@ app.use(express.json());
 connectDb();
 
 // API Routes
+app.get("/hello", (req, res) => {
+  res.send("hello");
+});
 app.use("/api/destinations", destinationRoutes);
 app.use("/api/users", userRoutes);
 
