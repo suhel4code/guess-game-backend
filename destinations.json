@@ -3,1760 +3,1760 @@
         "alias": "dst-1",
         "name": "Paris",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Paris draws millions of visitors yearly.",
+            "Paris is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Paris has hosted major international events and festivals.",
+            "One of the most iconic buildings in Paris has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Paris?",
+            "Which famous river or landmark is located in Paris?"
         ]
     },
     {
         "alias": "dst-2",
-        "name": "New York",
+        "name": "London",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in London draws millions of visitors yearly.",
+            "London is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "London has hosted major international events and festivals.",
+            "One of the most iconic buildings in London has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in London?",
+            "Which famous river or landmark is located in London?"
         ]
     },
     {
         "alias": "dst-3",
-        "name": "Tokyo",
+        "name": "New York",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in New York draws millions of visitors yearly.",
+            "New York is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "New York has hosted major international events and festivals.",
+            "One of the most iconic buildings in New York has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in New York?",
+            "Which famous river or landmark is located in New York?"
         ]
     },
     {
         "alias": "dst-4",
-        "name": "London",
+        "name": "Tokyo",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Tokyo draws millions of visitors yearly.",
+            "Tokyo is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Tokyo has hosted major international events and festivals.",
+            "One of the most iconic buildings in Tokyo has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Tokyo?",
+            "Which famous river or landmark is located in Tokyo?"
         ]
     },
     {
         "alias": "dst-5",
         "name": "Sydney",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Sydney draws millions of visitors yearly.",
+            "Sydney is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Sydney has hosted major international events and festivals.",
+            "One of the most iconic buildings in Sydney has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Sydney?",
+            "Which famous river or landmark is located in Sydney?"
         ]
     },
     {
         "alias": "dst-6",
-        "name": "Rome",
+        "name": "Berlin",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Berlin draws millions of visitors yearly.",
+            "Berlin is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Berlin has hosted major international events and festivals.",
+            "One of the most iconic buildings in Berlin has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Berlin?",
+            "Which famous river or landmark is located in Berlin?"
         ]
     },
     {
         "alias": "dst-7",
-        "name": "Paris",
+        "name": "Dubai",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Dubai draws millions of visitors yearly.",
+            "Dubai is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Dubai has hosted major international events and festivals.",
+            "One of the most iconic buildings in Dubai has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Dubai?",
+            "Which famous river or landmark is located in Dubai?"
         ]
     },
     {
         "alias": "dst-8",
-        "name": "New York",
+        "name": "Rome",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Rome draws millions of visitors yearly.",
+            "Rome is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Rome has hosted major international events and festivals.",
+            "One of the most iconic buildings in Rome has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Rome?",
+            "Which famous river or landmark is located in Rome?"
         ]
     },
     {
         "alias": "dst-9",
-        "name": "Tokyo",
+        "name": "Toronto",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Toronto draws millions of visitors yearly.",
+            "Toronto is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Toronto has hosted major international events and festivals.",
+            "One of the most iconic buildings in Toronto has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Toronto?",
+            "Which famous river or landmark is located in Toronto?"
         ]
     },
     {
         "alias": "dst-10",
-        "name": "London",
+        "name": "Moscow",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Moscow draws millions of visitors yearly.",
+            "Moscow is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Moscow has hosted major international events and festivals.",
+            "One of the most iconic buildings in Moscow has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Moscow?",
+            "Which famous river or landmark is located in Moscow?"
         ]
     },
     {
         "alias": "dst-11",
-        "name": "Sydney",
+        "name": "Bangkok",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Bangkok draws millions of visitors yearly.",
+            "Bangkok is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Bangkok has hosted major international events and festivals.",
+            "One of the most iconic buildings in Bangkok has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Bangkok?",
+            "Which famous river or landmark is located in Bangkok?"
         ]
     },
     {
         "alias": "dst-12",
-        "name": "Rome",
+        "name": "Beijing",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Beijing draws millions of visitors yearly.",
+            "Beijing is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Beijing has hosted major international events and festivals.",
+            "One of the most iconic buildings in Beijing has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Beijing?",
+            "Which famous river or landmark is located in Beijing?"
         ]
     },
     {
         "alias": "dst-13",
-        "name": "Paris",
+        "name": "Cairo",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Cairo draws millions of visitors yearly.",
+            "Cairo is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Cairo has hosted major international events and festivals.",
+            "One of the most iconic buildings in Cairo has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Cairo?",
+            "Which famous river or landmark is located in Cairo?"
         ]
     },
     {
         "alias": "dst-14",
-        "name": "New York",
+        "name": "Cape Town",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Cape Town draws millions of visitors yearly.",
+            "Cape Town is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Cape Town has hosted major international events and festivals.",
+            "One of the most iconic buildings in Cape Town has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Cape Town?",
+            "Which famous river or landmark is located in Cape Town?"
         ]
     },
     {
         "alias": "dst-15",
-        "name": "Tokyo",
+        "name": "Rio de Janeiro",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Rio de Janeiro draws millions of visitors yearly.",
+            "Rio de Janeiro is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Rio de Janeiro has hosted major international events and festivals.",
+            "One of the most iconic buildings in Rio de Janeiro has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Rio de Janeiro?",
+            "Which famous river or landmark is located in Rio de Janeiro?"
         ]
     },
     {
         "alias": "dst-16",
-        "name": "London",
+        "name": "Mexico City",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Mexico City draws millions of visitors yearly.",
+            "Mexico City is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Mexico City has hosted major international events and festivals.",
+            "One of the most iconic buildings in Mexico City has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Mexico City?",
+            "Which famous river or landmark is located in Mexico City?"
         ]
     },
     {
         "alias": "dst-17",
-        "name": "Sydney",
+        "name": "Los Angeles",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Los Angeles draws millions of visitors yearly.",
+            "Los Angeles is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Los Angeles has hosted major international events and festivals.",
+            "One of the most iconic buildings in Los Angeles has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Los Angeles?",
+            "Which famous river or landmark is located in Los Angeles?"
         ]
     },
     {
         "alias": "dst-18",
-        "name": "Rome",
+        "name": "Mumbai",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Mumbai draws millions of visitors yearly.",
+            "Mumbai is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Mumbai has hosted major international events and festivals.",
+            "One of the most iconic buildings in Mumbai has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Mumbai?",
+            "Which famous river or landmark is located in Mumbai?"
         ]
     },
     {
         "alias": "dst-19",
-        "name": "Paris",
+        "name": "Seoul",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Seoul draws millions of visitors yearly.",
+            "Seoul is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Seoul has hosted major international events and festivals.",
+            "One of the most iconic buildings in Seoul has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Seoul?",
+            "Which famous river or landmark is located in Seoul?"
         ]
     },
     {
         "alias": "dst-20",
-        "name": "New York",
+        "name": "Singapore",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Singapore draws millions of visitors yearly.",
+            "Singapore is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Singapore has hosted major international events and festivals.",
+            "One of the most iconic buildings in Singapore has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Singapore?",
+            "Which famous river or landmark is located in Singapore?"
         ]
     },
     {
         "alias": "dst-21",
-        "name": "Tokyo",
+        "name": "Istanbul",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Istanbul draws millions of visitors yearly.",
+            "Istanbul is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Istanbul has hosted major international events and festivals.",
+            "One of the most iconic buildings in Istanbul has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Istanbul?",
+            "Which famous river or landmark is located in Istanbul?"
         ]
     },
     {
         "alias": "dst-22",
-        "name": "London",
+        "name": "Amsterdam",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Amsterdam draws millions of visitors yearly.",
+            "Amsterdam is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Amsterdam has hosted major international events and festivals.",
+            "One of the most iconic buildings in Amsterdam has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Amsterdam?",
+            "Which famous river or landmark is located in Amsterdam?"
         ]
     },
     {
         "alias": "dst-23",
-        "name": "Sydney",
+        "name": "Barcelona",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Barcelona draws millions of visitors yearly.",
+            "Barcelona is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Barcelona has hosted major international events and festivals.",
+            "One of the most iconic buildings in Barcelona has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Barcelona?",
+            "Which famous river or landmark is located in Barcelona?"
         ]
     },
     {
         "alias": "dst-24",
-        "name": "Rome",
+        "name": "Chicago",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Chicago draws millions of visitors yearly.",
+            "Chicago is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Chicago has hosted major international events and festivals.",
+            "One of the most iconic buildings in Chicago has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Chicago?",
+            "Which famous river or landmark is located in Chicago?"
         ]
     },
     {
         "alias": "dst-25",
-        "name": "Paris",
+        "name": "San Francisco",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in San Francisco draws millions of visitors yearly.",
+            "San Francisco is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "San Francisco has hosted major international events and festivals.",
+            "One of the most iconic buildings in San Francisco has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in San Francisco?",
+            "Which famous river or landmark is located in San Francisco?"
         ]
     },
     {
         "alias": "dst-26",
-        "name": "New York",
+        "name": "Vienna",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Vienna draws millions of visitors yearly.",
+            "Vienna is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Vienna has hosted major international events and festivals.",
+            "One of the most iconic buildings in Vienna has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Vienna?",
+            "Which famous river or landmark is located in Vienna?"
         ]
     },
     {
         "alias": "dst-27",
-        "name": "Tokyo",
+        "name": "Prague",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Prague draws millions of visitors yearly.",
+            "Prague is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Prague has hosted major international events and festivals.",
+            "One of the most iconic buildings in Prague has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Prague?",
+            "Which famous river or landmark is located in Prague?"
         ]
     },
     {
         "alias": "dst-28",
-        "name": "London",
+        "name": "Buenos Aires",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Buenos Aires draws millions of visitors yearly.",
+            "Buenos Aires is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Buenos Aires has hosted major international events and festivals.",
+            "One of the most iconic buildings in Buenos Aires has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Buenos Aires?",
+            "Which famous river or landmark is located in Buenos Aires?"
         ]
     },
     {
         "alias": "dst-29",
-        "name": "Sydney",
+        "name": "Dublin",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Dublin draws millions of visitors yearly.",
+            "Dublin is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Dublin has hosted major international events and festivals.",
+            "One of the most iconic buildings in Dublin has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Dublin?",
+            "Which famous river or landmark is located in Dublin?"
         ]
     },
     {
         "alias": "dst-30",
-        "name": "Rome",
+        "name": "Lisbon",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Lisbon draws millions of visitors yearly.",
+            "Lisbon is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Lisbon has hosted major international events and festivals.",
+            "One of the most iconic buildings in Lisbon has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Lisbon?",
+            "Which famous river or landmark is located in Lisbon?"
         ]
     },
     {
         "alias": "dst-31",
-        "name": "Paris",
+        "name": "Stockholm",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Stockholm draws millions of visitors yearly.",
+            "Stockholm is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Stockholm has hosted major international events and festivals.",
+            "One of the most iconic buildings in Stockholm has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Stockholm?",
+            "Which famous river or landmark is located in Stockholm?"
         ]
     },
     {
         "alias": "dst-32",
-        "name": "New York",
+        "name": "Hong Kong",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Hong Kong draws millions of visitors yearly.",
+            "Hong Kong is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Hong Kong has hosted major international events and festivals.",
+            "One of the most iconic buildings in Hong Kong has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Hong Kong?",
+            "Which famous river or landmark is located in Hong Kong?"
         ]
     },
     {
         "alias": "dst-33",
-        "name": "Tokyo",
+        "name": "Jakarta",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Jakarta draws millions of visitors yearly.",
+            "Jakarta is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Jakarta has hosted major international events and festivals.",
+            "One of the most iconic buildings in Jakarta has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Jakarta?",
+            "Which famous river or landmark is located in Jakarta?"
         ]
     },
     {
         "alias": "dst-34",
-        "name": "London",
+        "name": "Manila",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Manila draws millions of visitors yearly.",
+            "Manila is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Manila has hosted major international events and festivals.",
+            "One of the most iconic buildings in Manila has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Manila?",
+            "Which famous river or landmark is located in Manila?"
         ]
     },
     {
         "alias": "dst-35",
-        "name": "Sydney",
+        "name": "Oslo",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Oslo draws millions of visitors yearly.",
+            "Oslo is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Oslo has hosted major international events and festivals.",
+            "One of the most iconic buildings in Oslo has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Oslo?",
+            "Which famous river or landmark is located in Oslo?"
         ]
     },
     {
         "alias": "dst-36",
-        "name": "Rome",
+        "name": "Warsaw",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Warsaw draws millions of visitors yearly.",
+            "Warsaw is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Warsaw has hosted major international events and festivals.",
+            "One of the most iconic buildings in Warsaw has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Warsaw?",
+            "Which famous river or landmark is located in Warsaw?"
         ]
     },
     {
         "alias": "dst-37",
-        "name": "Paris",
+        "name": "Athens",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Athens draws millions of visitors yearly.",
+            "Athens is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Athens has hosted major international events and festivals.",
+            "One of the most iconic buildings in Athens has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Athens?",
+            "Which famous river or landmark is located in Athens?"
         ]
     },
     {
         "alias": "dst-38",
-        "name": "New York",
+        "name": "Helsinki",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Helsinki draws millions of visitors yearly.",
+            "Helsinki is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Helsinki has hosted major international events and festivals.",
+            "One of the most iconic buildings in Helsinki has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Helsinki?",
+            "Which famous river or landmark is located in Helsinki?"
         ]
     },
     {
         "alias": "dst-39",
-        "name": "Tokyo",
+        "name": "Brussels",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Brussels draws millions of visitors yearly.",
+            "Brussels is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Brussels has hosted major international events and festivals.",
+            "One of the most iconic buildings in Brussels has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Brussels?",
+            "Which famous river or landmark is located in Brussels?"
         ]
     },
     {
         "alias": "dst-40",
-        "name": "London",
+        "name": "Lima",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Lima draws millions of visitors yearly.",
+            "Lima is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Lima has hosted major international events and festivals.",
+            "One of the most iconic buildings in Lima has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Lima?",
+            "Which famous river or landmark is located in Lima?"
         ]
     },
     {
         "alias": "dst-41",
-        "name": "Sydney",
+        "name": "Bogot\u00e1",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Bogot\u00e1 draws millions of visitors yearly.",
+            "Bogot\u00e1 is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Bogot\u00e1 has hosted major international events and festivals.",
+            "One of the most iconic buildings in Bogot\u00e1 has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Bogot\u00e1?",
+            "Which famous river or landmark is located in Bogot\u00e1?"
         ]
     },
     {
         "alias": "dst-42",
-        "name": "Rome",
+        "name": "Kuala Lumpur",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Kuala Lumpur draws millions of visitors yearly.",
+            "Kuala Lumpur is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Kuala Lumpur has hosted major international events and festivals.",
+            "One of the most iconic buildings in Kuala Lumpur has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Kuala Lumpur?",
+            "Which famous river or landmark is located in Kuala Lumpur?"
         ]
     },
     {
         "alias": "dst-43",
-        "name": "Paris",
+        "name": "Copenhagen",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Copenhagen draws millions of visitors yearly.",
+            "Copenhagen is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Copenhagen has hosted major international events and festivals.",
+            "One of the most iconic buildings in Copenhagen has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Copenhagen?",
+            "Which famous river or landmark is located in Copenhagen?"
         ]
     },
     {
         "alias": "dst-44",
-        "name": "New York",
+        "name": "Budapest",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Budapest draws millions of visitors yearly.",
+            "Budapest is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Budapest has hosted major international events and festivals.",
+            "One of the most iconic buildings in Budapest has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Budapest?",
+            "Which famous river or landmark is located in Budapest?"
         ]
     },
     {
         "alias": "dst-45",
-        "name": "Tokyo",
+        "name": "Edinburgh",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Edinburgh draws millions of visitors yearly.",
+            "Edinburgh is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Edinburgh has hosted major international events and festivals.",
+            "One of the most iconic buildings in Edinburgh has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Edinburgh?",
+            "Which famous river or landmark is located in Edinburgh?"
         ]
     },
     {
         "alias": "dst-46",
-        "name": "London",
+        "name": "Munich",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Munich draws millions of visitors yearly.",
+            "Munich is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Munich has hosted major international events and festivals.",
+            "One of the most iconic buildings in Munich has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Munich?",
+            "Which famous river or landmark is located in Munich?"
         ]
     },
     {
         "alias": "dst-47",
-        "name": "Sydney",
+        "name": "Zurich",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Zurich draws millions of visitors yearly.",
+            "Zurich is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Zurich has hosted major international events and festivals.",
+            "One of the most iconic buildings in Zurich has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Zurich?",
+            "Which famous river or landmark is located in Zurich?"
         ]
     },
     {
         "alias": "dst-48",
-        "name": "Rome",
+        "name": "Hanoi",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Hanoi draws millions of visitors yearly.",
+            "Hanoi is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Hanoi has hosted major international events and festivals.",
+            "One of the most iconic buildings in Hanoi has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Hanoi?",
+            "Which famous river or landmark is located in Hanoi?"
         ]
     },
     {
         "alias": "dst-49",
-        "name": "Paris",
+        "name": "Casablanca",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Casablanca draws millions of visitors yearly.",
+            "Casablanca is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Casablanca has hosted major international events and festivals.",
+            "One of the most iconic buildings in Casablanca has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Casablanca?",
+            "Which famous river or landmark is located in Casablanca?"
         ]
     },
     {
         "alias": "dst-50",
-        "name": "New York",
+        "name": "Doha",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Doha draws millions of visitors yearly.",
+            "Doha is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Doha has hosted major international events and festivals.",
+            "One of the most iconic buildings in Doha has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Doha?",
+            "Which famous river or landmark is located in Doha?"
         ]
     },
     {
         "alias": "dst-51",
-        "name": "Tokyo",
+        "name": "Venice",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Venice draws millions of visitors yearly.",
+            "Venice is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Venice has hosted major international events and festivals.",
+            "One of the most iconic buildings in Venice has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Venice?",
+            "Which famous river or landmark is located in Venice?"
         ]
     },
     {
         "alias": "dst-52",
-        "name": "London",
+        "name": "Florence",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Florence draws millions of visitors yearly.",
+            "Florence is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Florence has hosted major international events and festivals.",
+            "One of the most iconic buildings in Florence has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Florence?",
+            "Which famous river or landmark is located in Florence?"
         ]
     },
     {
         "alias": "dst-53",
-        "name": "Sydney",
+        "name": "Vancouver",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Vancouver draws millions of visitors yearly.",
+            "Vancouver is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Vancouver has hosted major international events and festivals.",
+            "One of the most iconic buildings in Vancouver has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Vancouver?",
+            "Which famous river or landmark is located in Vancouver?"
         ]
     },
     {
         "alias": "dst-54",
-        "name": "Rome",
+        "name": "Santiago",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Santiago draws millions of visitors yearly.",
+            "Santiago is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Santiago has hosted major international events and festivals.",
+            "One of the most iconic buildings in Santiago has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Santiago?",
+            "Which famous river or landmark is located in Santiago?"
         ]
     },
     {
         "alias": "dst-55",
-        "name": "Paris",
+        "name": "Johannesburg",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Johannesburg draws millions of visitors yearly.",
+            "Johannesburg is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Johannesburg has hosted major international events and festivals.",
+            "One of the most iconic buildings in Johannesburg has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Johannesburg?",
+            "Which famous river or landmark is located in Johannesburg?"
         ]
     },
     {
         "alias": "dst-56",
-        "name": "New York",
+        "name": "Kyoto",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Kyoto draws millions of visitors yearly.",
+            "Kyoto is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Kyoto has hosted major international events and festivals.",
+            "One of the most iconic buildings in Kyoto has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Kyoto?",
+            "Which famous river or landmark is located in Kyoto?"
         ]
     },
     {
         "alias": "dst-57",
-        "name": "Tokyo",
+        "name": "Osaka",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Osaka draws millions of visitors yearly.",
+            "Osaka is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Osaka has hosted major international events and festivals.",
+            "One of the most iconic buildings in Osaka has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Osaka?",
+            "Which famous river or landmark is located in Osaka?"
         ]
     },
     {
         "alias": "dst-58",
-        "name": "London",
+        "name": "Seville",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Seville draws millions of visitors yearly.",
+            "Seville is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Seville has hosted major international events and festivals.",
+            "One of the most iconic buildings in Seville has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Seville?",
+            "Which famous river or landmark is located in Seville?"
         ]
     },
     {
         "alias": "dst-59",
-        "name": "Sydney",
+        "name": "Marrakech",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Marrakech draws millions of visitors yearly.",
+            "Marrakech is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Marrakech has hosted major international events and festivals.",
+            "One of the most iconic buildings in Marrakech has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Marrakech?",
+            "Which famous river or landmark is located in Marrakech?"
         ]
     },
     {
         "alias": "dst-60",
-        "name": "Rome",
+        "name": "Brisbane",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Brisbane draws millions of visitors yearly.",
+            "Brisbane is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Brisbane has hosted major international events and festivals.",
+            "One of the most iconic buildings in Brisbane has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Brisbane?",
+            "Which famous river or landmark is located in Brisbane?"
         ]
     },
     {
         "alias": "dst-61",
-        "name": "Paris",
+        "name": "Montreal",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Montreal draws millions of visitors yearly.",
+            "Montreal is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Montreal has hosted major international events and festivals.",
+            "One of the most iconic buildings in Montreal has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Montreal?",
+            "Which famous river or landmark is located in Montreal?"
         ]
     },
     {
         "alias": "dst-62",
-        "name": "New York",
+        "name": "Wellington",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Wellington draws millions of visitors yearly.",
+            "Wellington is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Wellington has hosted major international events and festivals.",
+            "One of the most iconic buildings in Wellington has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Wellington?",
+            "Which famous river or landmark is located in Wellington?"
         ]
     },
     {
         "alias": "dst-63",
-        "name": "Tokyo",
+        "name": "Reykjavik",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Reykjavik draws millions of visitors yearly.",
+            "Reykjavik is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Reykjavik has hosted major international events and festivals.",
+            "One of the most iconic buildings in Reykjavik has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Reykjavik?",
+            "Which famous river or landmark is located in Reykjavik?"
         ]
     },
     {
         "alias": "dst-64",
-        "name": "London",
+        "name": "San Diego",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in San Diego draws millions of visitors yearly.",
+            "San Diego is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "San Diego has hosted major international events and festivals.",
+            "One of the most iconic buildings in San Diego has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in San Diego?",
+            "Which famous river or landmark is located in San Diego?"
         ]
     },
     {
         "alias": "dst-65",
-        "name": "Sydney",
+        "name": "Kolkata",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Kolkata draws millions of visitors yearly.",
+            "Kolkata is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Kolkata has hosted major international events and festivals.",
+            "One of the most iconic buildings in Kolkata has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Kolkata?",
+            "Which famous river or landmark is located in Kolkata?"
         ]
     },
     {
         "alias": "dst-66",
-        "name": "Rome",
+        "name": "Perth",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Perth draws millions of visitors yearly.",
+            "Perth is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Perth has hosted major international events and festivals.",
+            "One of the most iconic buildings in Perth has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Perth?",
+            "Which famous river or landmark is located in Perth?"
         ]
     },
     {
         "alias": "dst-67",
-        "name": "Paris",
+        "name": "Nairobi",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Nairobi draws millions of visitors yearly.",
+            "Nairobi is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Nairobi has hosted major international events and festivals.",
+            "One of the most iconic buildings in Nairobi has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Nairobi?",
+            "Which famous river or landmark is located in Nairobi?"
         ]
     },
     {
         "alias": "dst-68",
-        "name": "New York",
+        "name": "Athens",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Athens draws millions of visitors yearly.",
+            "Athens is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Athens has hosted major international events and festivals.",
+            "One of the most iconic buildings in Athens has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Athens?",
+            "Which famous river or landmark is located in Athens?"
         ]
     },
     {
         "alias": "dst-69",
-        "name": "Tokyo",
+        "name": "Hamburg",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Hamburg draws millions of visitors yearly.",
+            "Hamburg is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Hamburg has hosted major international events and festivals.",
+            "One of the most iconic buildings in Hamburg has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Hamburg?",
+            "Which famous river or landmark is located in Hamburg?"
         ]
     },
     {
         "alias": "dst-70",
-        "name": "London",
+        "name": "Valencia",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Valencia draws millions of visitors yearly.",
+            "Valencia is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Valencia has hosted major international events and festivals.",
+            "One of the most iconic buildings in Valencia has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Valencia?",
+            "Which famous river or landmark is located in Valencia?"
         ]
     },
     {
         "alias": "dst-71",
-        "name": "Sydney",
+        "name": "Bali",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Bali draws millions of visitors yearly.",
+            "Bali is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Bali has hosted major international events and festivals.",
+            "One of the most iconic buildings in Bali has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Bali?",
+            "Which famous river or landmark is located in Bali?"
         ]
     },
     {
         "alias": "dst-72",
-        "name": "Rome",
+        "name": "Malta",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Malta draws millions of visitors yearly.",
+            "Malta is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Malta has hosted major international events and festivals.",
+            "One of the most iconic buildings in Malta has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Malta?",
+            "Which famous river or landmark is located in Malta?"
         ]
     },
     {
         "alias": "dst-73",
-        "name": "Paris",
+        "name": "Phuket",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Phuket draws millions of visitors yearly.",
+            "Phuket is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Phuket has hosted major international events and festivals.",
+            "One of the most iconic buildings in Phuket has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Phuket?",
+            "Which famous river or landmark is located in Phuket?"
         ]
     },
     {
         "alias": "dst-74",
-        "name": "New York",
+        "name": "Ho Chi Minh City",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Ho Chi Minh City draws millions of visitors yearly.",
+            "Ho Chi Minh City is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Ho Chi Minh City has hosted major international events and festivals.",
+            "One of the most iconic buildings in Ho Chi Minh City has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Ho Chi Minh City?",
+            "Which famous river or landmark is located in Ho Chi Minh City?"
         ]
     },
     {
         "alias": "dst-75",
-        "name": "Tokyo",
+        "name": "Havana",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Havana draws millions of visitors yearly.",
+            "Havana is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Havana has hosted major international events and festivals.",
+            "One of the most iconic buildings in Havana has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Havana?",
+            "Which famous river or landmark is located in Havana?"
         ]
     },
     {
         "alias": "dst-76",
-        "name": "London",
+        "name": "Madagascar",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Madagascar draws millions of visitors yearly.",
+            "Madagascar is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Madagascar has hosted major international events and festivals.",
+            "One of the most iconic buildings in Madagascar has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Madagascar?",
+            "Which famous river or landmark is located in Madagascar?"
         ]
     },
     {
         "alias": "dst-77",
-        "name": "Sydney",
+        "name": "Tahiti",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Tahiti draws millions of visitors yearly.",
+            "Tahiti is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Tahiti has hosted major international events and festivals.",
+            "One of the most iconic buildings in Tahiti has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Tahiti?",
+            "Which famous river or landmark is located in Tahiti?"
         ]
     },
     {
         "alias": "dst-78",
-        "name": "Rome",
+        "name": "Santorini",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Santorini draws millions of visitors yearly.",
+            "Santorini is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Santorini has hosted major international events and festivals.",
+            "One of the most iconic buildings in Santorini has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Santorini?",
+            "Which famous river or landmark is located in Santorini?"
         ]
     },
     {
         "alias": "dst-79",
-        "name": "Paris",
+        "name": "Mykonos",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Mykonos draws millions of visitors yearly.",
+            "Mykonos is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Mykonos has hosted major international events and festivals.",
+            "One of the most iconic buildings in Mykonos has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Mykonos?",
+            "Which famous river or landmark is located in Mykonos?"
         ]
     },
     {
         "alias": "dst-80",
-        "name": "New York",
+        "name": "Bergen",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Bergen draws millions of visitors yearly.",
+            "Bergen is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Bergen has hosted major international events and festivals.",
+            "One of the most iconic buildings in Bergen has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Bergen?",
+            "Which famous river or landmark is located in Bergen?"
         ]
     },
     {
         "alias": "dst-81",
-        "name": "Tokyo",
+        "name": "Luxembourg",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Luxembourg draws millions of visitors yearly.",
+            "Luxembourg is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Luxembourg has hosted major international events and festivals.",
+            "One of the most iconic buildings in Luxembourg has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Luxembourg?",
+            "Which famous river or landmark is located in Luxembourg?"
         ]
     },
     {
         "alias": "dst-82",
-        "name": "London",
+        "name": "Monte Carlo",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Monte Carlo draws millions of visitors yearly.",
+            "Monte Carlo is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Monte Carlo has hosted major international events and festivals.",
+            "One of the most iconic buildings in Monte Carlo has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Monte Carlo?",
+            "Which famous river or landmark is located in Monte Carlo?"
         ]
     },
     {
         "alias": "dst-83",
-        "name": "Sydney",
+        "name": "San Juan",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in San Juan draws millions of visitors yearly.",
+            "San Juan is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "San Juan has hosted major international events and festivals.",
+            "One of the most iconic buildings in San Juan has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in San Juan?",
+            "Which famous river or landmark is located in San Juan?"
         ]
     },
     {
         "alias": "dst-84",
-        "name": "Rome",
+        "name": "Anchorage",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Anchorage draws millions of visitors yearly.",
+            "Anchorage is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Anchorage has hosted major international events and festivals.",
+            "One of the most iconic buildings in Anchorage has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Anchorage?",
+            "Which famous river or landmark is located in Anchorage?"
         ]
     },
     {
         "alias": "dst-85",
-        "name": "Paris",
+        "name": "Bucharest",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Bucharest draws millions of visitors yearly.",
+            "Bucharest is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Bucharest has hosted major international events and festivals.",
+            "One of the most iconic buildings in Bucharest has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Bucharest?",
+            "Which famous river or landmark is located in Bucharest?"
         ]
     },
     {
         "alias": "dst-86",
-        "name": "New York",
+        "name": "Sarajevo",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Sarajevo draws millions of visitors yearly.",
+            "Sarajevo is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Sarajevo has hosted major international events and festivals.",
+            "One of the most iconic buildings in Sarajevo has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Sarajevo?",
+            "Which famous river or landmark is located in Sarajevo?"
         ]
     },
     {
         "alias": "dst-87",
-        "name": "Tokyo",
+        "name": "Ljubljana",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Ljubljana draws millions of visitors yearly.",
+            "Ljubljana is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Ljubljana has hosted major international events and festivals.",
+            "One of the most iconic buildings in Ljubljana has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Ljubljana?",
+            "Which famous river or landmark is located in Ljubljana?"
         ]
     },
     {
         "alias": "dst-88",
-        "name": "London",
+        "name": "Bratislava",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Bratislava draws millions of visitors yearly.",
+            "Bratislava is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Bratislava has hosted major international events and festivals.",
+            "One of the most iconic buildings in Bratislava has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Bratislava?",
+            "Which famous river or landmark is located in Bratislava?"
         ]
     },
     {
         "alias": "dst-89",
-        "name": "Sydney",
+        "name": "Tallinn",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Tallinn draws millions of visitors yearly.",
+            "Tallinn is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Tallinn has hosted major international events and festivals.",
+            "One of the most iconic buildings in Tallinn has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Tallinn?",
+            "Which famous river or landmark is located in Tallinn?"
         ]
     },
     {
         "alias": "dst-90",
-        "name": "Rome",
+        "name": "Vilnius",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Vilnius draws millions of visitors yearly.",
+            "Vilnius is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Vilnius has hosted major international events and festivals.",
+            "One of the most iconic buildings in Vilnius has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Vilnius?",
+            "Which famous river or landmark is located in Vilnius?"
         ]
     },
     {
         "alias": "dst-91",
-        "name": "Paris",
+        "name": "Riga",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Riga draws millions of visitors yearly.",
+            "Riga is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Riga has hosted major international events and festivals.",
+            "One of the most iconic buildings in Riga has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Riga?",
+            "Which famous river or landmark is located in Riga?"
         ]
     },
     {
         "alias": "dst-92",
-        "name": "New York",
+        "name": "Krakow",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Krakow draws millions of visitors yearly.",
+            "Krakow is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Krakow has hosted major international events and festivals.",
+            "One of the most iconic buildings in Krakow has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Krakow?",
+            "Which famous river or landmark is located in Krakow?"
         ]
     },
     {
         "alias": "dst-93",
-        "name": "Tokyo",
+        "name": "Gothenburg",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Gothenburg draws millions of visitors yearly.",
+            "Gothenburg is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Gothenburg has hosted major international events and festivals.",
+            "One of the most iconic buildings in Gothenburg has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Gothenburg?",
+            "Which famous river or landmark is located in Gothenburg?"
         ]
     },
     {
         "alias": "dst-94",
-        "name": "London",
+        "name": "Adelaide",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Adelaide draws millions of visitors yearly.",
+            "Adelaide is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Adelaide has hosted major international events and festivals.",
+            "One of the most iconic buildings in Adelaide has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Adelaide?",
+            "Which famous river or landmark is located in Adelaide?"
         ]
     },
     {
         "alias": "dst-95",
-        "name": "Sydney",
+        "name": "Christchurch",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Christchurch draws millions of visitors yearly.",
+            "Christchurch is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Christchurch has hosted major international events and festivals.",
+            "One of the most iconic buildings in Christchurch has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Christchurch?",
+            "Which famous river or landmark is located in Christchurch?"
         ]
     },
     {
         "alias": "dst-96",
-        "name": "Rome",
+        "name": "Cebu",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Cebu draws millions of visitors yearly.",
+            "Cebu is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Cebu has hosted major international events and festivals.",
+            "One of the most iconic buildings in Cebu has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Cebu?",
+            "Which famous river or landmark is located in Cebu?"
         ]
     },
     {
         "alias": "dst-97",
-        "name": "Paris",
+        "name": "Kota Kinabalu",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Kota Kinabalu draws millions of visitors yearly.",
+            "Kota Kinabalu is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Kota Kinabalu has hosted major international events and festivals.",
+            "One of the most iconic buildings in Kota Kinabalu has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Kota Kinabalu?",
+            "Which famous river or landmark is located in Kota Kinabalu?"
         ]
     },
     {
         "alias": "dst-98",
-        "name": "New York",
+        "name": "Minsk",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Minsk draws millions of visitors yearly.",
+            "Minsk is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Minsk has hosted major international events and festivals.",
+            "One of the most iconic buildings in Minsk has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Minsk?",
+            "Which famous river or landmark is located in Minsk?"
         ]
     },
     {
         "alias": "dst-99",
-        "name": "Tokyo",
+        "name": "Tbilisi",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Tbilisi draws millions of visitors yearly.",
+            "Tbilisi is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Tbilisi has hosted major international events and festivals.",
+            "One of the most iconic buildings in Tbilisi has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Tbilisi?",
+            "Which famous river or landmark is located in Tbilisi?"
         ]
     },
     {
         "alias": "dst-100",
-        "name": "London",
+        "name": "Yerevan",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Yerevan draws millions of visitors yearly.",
+            "Yerevan is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Yerevan has hosted major international events and festivals.",
+            "One of the most iconic buildings in Yerevan has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Yerevan?",
+            "Which famous river or landmark is located in Yerevan?"
         ]
     },
     {
         "alias": "dst-101",
-        "name": "Sydney",
+        "name": "Rabat",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Rabat draws millions of visitors yearly.",
+            "Rabat is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Rabat has hosted major international events and festivals.",
+            "One of the most iconic buildings in Rabat has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Rabat?",
+            "Which famous river or landmark is located in Rabat?"
         ]
     },
     {
         "alias": "dst-102",
-        "name": "Rome",
+        "name": "Manama",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Manama draws millions of visitors yearly.",
+            "Manama is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Manama has hosted major international events and festivals.",
+            "One of the most iconic buildings in Manama has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Manama?",
+            "Which famous river or landmark is located in Manama?"
         ]
     },
     {
         "alias": "dst-103",
-        "name": "Paris",
+        "name": "Muscat",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Muscat draws millions of visitors yearly.",
+            "Muscat is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Muscat has hosted major international events and festivals.",
+            "One of the most iconic buildings in Muscat has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Muscat?",
+            "Which famous river or landmark is located in Muscat?"
         ]
     },
     {
         "alias": "dst-104",
-        "name": "New York",
+        "name": "Baghdad",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Baghdad draws millions of visitors yearly.",
+            "Baghdad is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Baghdad has hosted major international events and festivals.",
+            "One of the most iconic buildings in Baghdad has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Baghdad?",
+            "Which famous river or landmark is located in Baghdad?"
         ]
     },
     {
         "alias": "dst-105",
-        "name": "Tokyo",
+        "name": "Tehran",
         "clues": [
-            "Home to the busiest pedestrian crossing in the world",
-            "Famous for cherry blossoms in spring"
+            "A world-famous attraction in Tehran draws millions of visitors yearly.",
+            "Tehran is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the most Michelin-star restaurants in the world.",
-            "Hosted the Olympics twice."
+            "Tehran has hosted major international events and festivals.",
+            "One of the most iconic buildings in Tehran has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the tallest tower in this city?",
-            "Which district is famous for anime and electronics?"
+            "What is a popular local dish in Tehran?",
+            "Which famous river or landmark is located in Tehran?"
         ]
     },
     {
         "alias": "dst-106",
-        "name": "London",
+        "name": "Damascus",
         "clues": [
-            "Famous for a clock tower that isn’t actually called Big Ben",
-            "The River Thames runs through it"
+            "A world-famous attraction in Damascus draws millions of visitors yearly.",
+            "Damascus is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "The underground train system is the oldest in the world.",
-            "Home to the British Royal Family."
+            "Damascus has hosted major international events and festivals.",
+            "One of the most iconic buildings in Damascus has a fascinating history."
         ],
         "trivia": [
-            "Which famous detective is based in this city?",
-            "What is the official residence of the British monarch?"
+            "What is a popular local dish in Damascus?",
+            "Which famous river or landmark is located in Damascus?"
         ]
     },
     {
         "alias": "dst-107",
-        "name": "Sydney",
+        "name": "Addis Ababa",
         "clues": [
-            "Home to a famous opera house with a unique design",
-            "Located in a country that’s also a continent"
+            "A world-famous attraction in Addis Ababa draws millions of visitors yearly.",
+            "Addis Ababa is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "One of the world’s largest natural harbors is located here.",
-            "Has over 100 beaches."
+            "Addis Ababa has hosted major international events and festivals.",
+            "One of the most iconic buildings in Addis Ababa has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the bridge often called 'The Coathanger'?",
-            "Which ocean borders this city?"
+            "What is a popular local dish in Addis Ababa?",
+            "Which famous river or landmark is located in Addis Ababa?"
         ]
     },
     {
         "alias": "dst-108",
-        "name": "Rome",
+        "name": "Lagos",
         "clues": [
-            "Nicknamed the Eternal City",
-            "Once the center of an ancient empire"
+            "A world-famous attraction in Lagos draws millions of visitors yearly.",
+            "Lagos is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Home to the smallest country in the world.",
-            "Has a famous amphitheater where gladiators fought."
+            "Lagos has hosted major international events and festivals.",
+            "One of the most iconic buildings in Lagos has a fascinating history."
         ],
         "trivia": [
-            "Which river runs through this city?",
-            "What is the name of the smallest country within this city?"
+            "What is a popular local dish in Lagos?",
+            "Which famous river or landmark is located in Lagos?"
         ]
     },
     {
         "alias": "dst-109",
-        "name": "Paris",
+        "name": "Accra",
         "clues": [
-            "Home to a famous tower finished in 1889",
-            "Called the City of Light"
+            "A world-famous attraction in Accra draws millions of visitors yearly.",
+            "Accra is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "A world-renowned museum holds thousands of artifacts.",
-            "Famous for café culture and fine dining."
+            "Accra has hosted major international events and festivals.",
+            "One of the most iconic buildings in Accra has a fascinating history."
         ],
         "trivia": [
-            "What year was the famous tower completed?",
-            "Which river flows through this city?"
+            "What is a popular local dish in Accra?",
+            "Which famous river or landmark is located in Accra?"
         ]
     },
     {
         "alias": "dst-110",
-        "name": "New York",
+        "name": "Dhaka",
         "clues": [
-            "Known as the Big Apple",
-            "Home to a famous statue gifted by France"
+            "A world-famous attraction in Dhaka draws millions of visitors yearly.",
+            "Dhaka is known for its rich cultural heritage and iconic landmarks."
         ],
         "funFacts": [
-            "Has the busiest subway system in the USA.",
-            "Famous for Broadway and Times Square."
+            "Dhaka has hosted major international events and festivals.",
+            "One of the most iconic buildings in Dhaka has a fascinating history."
         ],
         "trivia": [
-            "What is the name of the famous park in the middle of Manhattan?",
-            "Which river separates Manhattan from New Jersey?"
+            "What is a popular local dish in Dhaka?",
+            "Which famous river or landmark is located in Dhaka?"
         ]
     }
 ]
