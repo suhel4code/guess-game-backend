@@ -1,0 +1,1762 @@
+[
+    {
+        "alias": "dst-1",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-2",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-3",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-4",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-5",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-6",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-7",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-8",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-9",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-10",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-11",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-12",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-13",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-14",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-15",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-16",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-17",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-18",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-19",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-20",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-21",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-22",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-23",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-24",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-25",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-26",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-27",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-28",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-29",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-30",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-31",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-32",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-33",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-34",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-35",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-36",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-37",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-38",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-39",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-40",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-41",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-42",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-43",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-44",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-45",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-46",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-47",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-48",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-49",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-50",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-51",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-52",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-53",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-54",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-55",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-56",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-57",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-58",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-59",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-60",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-61",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-62",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-63",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-64",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-65",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-66",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-67",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-68",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-69",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-70",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-71",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-72",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-73",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-74",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-75",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-76",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-77",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-78",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-79",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-80",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-81",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-82",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-83",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-84",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-85",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-86",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-87",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-88",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-89",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-90",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-91",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-92",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-93",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-94",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-95",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-96",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-97",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-98",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-99",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-100",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-101",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-102",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-103",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-104",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    },
+    {
+        "alias": "dst-105",
+        "name": "Tokyo",
+        "clues": [
+            "Home to the busiest pedestrian crossing in the world",
+            "Famous for cherry blossoms in spring"
+        ],
+        "funFacts": [
+            "Has the most Michelin-star restaurants in the world.",
+            "Hosted the Olympics twice."
+        ],
+        "trivia": [
+            "What is the name of the tallest tower in this city?",
+            "Which district is famous for anime and electronics?"
+        ]
+    },
+    {
+        "alias": "dst-106",
+        "name": "London",
+        "clues": [
+            "Famous for a clock tower that isn’t actually called Big Ben",
+            "The River Thames runs through it"
+        ],
+        "funFacts": [
+            "The underground train system is the oldest in the world.",
+            "Home to the British Royal Family."
+        ],
+        "trivia": [
+            "Which famous detective is based in this city?",
+            "What is the official residence of the British monarch?"
+        ]
+    },
+    {
+        "alias": "dst-107",
+        "name": "Sydney",
+        "clues": [
+            "Home to a famous opera house with a unique design",
+            "Located in a country that’s also a continent"
+        ],
+        "funFacts": [
+            "One of the world’s largest natural harbors is located here.",
+            "Has over 100 beaches."
+        ],
+        "trivia": [
+            "What is the name of the bridge often called 'The Coathanger'?",
+            "Which ocean borders this city?"
+        ]
+    },
+    {
+        "alias": "dst-108",
+        "name": "Rome",
+        "clues": [
+            "Nicknamed the Eternal City",
+            "Once the center of an ancient empire"
+        ],
+        "funFacts": [
+            "Home to the smallest country in the world.",
+            "Has a famous amphitheater where gladiators fought."
+        ],
+        "trivia": [
+            "Which river runs through this city?",
+            "What is the name of the smallest country within this city?"
+        ]
+    },
+    {
+        "alias": "dst-109",
+        "name": "Paris",
+        "clues": [
+            "Home to a famous tower finished in 1889",
+            "Called the City of Light"
+        ],
+        "funFacts": [
+            "A world-renowned museum holds thousands of artifacts.",
+            "Famous for café culture and fine dining."
+        ],
+        "trivia": [
+            "What year was the famous tower completed?",
+            "Which river flows through this city?"
+        ]
+    },
+    {
+        "alias": "dst-110",
+        "name": "New York",
+        "clues": [
+            "Known as the Big Apple",
+            "Home to a famous statue gifted by France"
+        ],
+        "funFacts": [
+            "Has the busiest subway system in the USA.",
+            "Famous for Broadway and Times Square."
+        ],
+        "trivia": [
+            "What is the name of the famous park in the middle of Manhattan?",
+            "Which river separates Manhattan from New Jersey?"
+        ]
+    }
+]
